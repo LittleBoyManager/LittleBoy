@@ -2,13 +2,11 @@
 # LittleBoy
 
 
-1. **eveonline**
-2. **bot**
-3. **ratting**
-4. **mining**
-5. **eve online bot**
-6. **security bot**
-7. **simulated human operation**
+1. **ratting**
+2. **mining**
+3. **eve online bot**
+4. **security bot**
+5. **simulated human operation**
 
 
 

@@ -3,10 +3,10 @@
 
 
 ### Features
-    1. **ratting**
-    2. **mining**
-    3. **security bot**
-    4. **simulated human operation**
+   1. **ratting**
+   2. **mining**
+   3. **security bot**
+   4. **simulated human operation**
 
 
 

@@ -6,7 +6,7 @@ The LittleBoy is a product of artificial intelligence used in game automation. I
 
 
 ### latest released download: 
-    [LittleBoy latest released][http://littleboy.kl-games.com:7080/downloads] http://littleboy.kl-games.com:7080/downloads
+    [LittleBoy Latest Released]http://littleboy.kl-games.com:7080/downloads http://littleboy.kl-games.com:7080/downloads
 
 
 ### Home: 

@@ -1,12 +1,12 @@
 
-# LittleBoy
+# LittleBoy is eve online bot
 
 
-1. **ratting**
-2. **mining**
-3. **eve online bot**
-4. **security bot**
-5. **simulated human operation**
+### Features
+    1. **ratting**
+    2. **mining**
+    3. **security bot**
+    4. **simulated human operation**
 
 
 

@@ -1,5 +1,5 @@
 
-# LittleBoy is eve online bot
+# LittleBoy is a EVE Online Bot
 
 
 ### Features

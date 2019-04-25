@@ -1,13 +1,15 @@
 
 # LittleBoy
 
-1.**eveonline**
-2.**bot**
-3.**ratting**
-4.**mining**
-5.**eve online bot**
-6.**save bot**
-7.**simulated human operation**
+
+1. **eveonline**
+2. **bot**
+3. **ratting**
+4. **mining**
+5. **eve online bot**
+6. **save bot**
+7. **simulated human operation**
+
 
 
 The LittleBoy is a product of artificial intelligence used in game automation. It completely simulates human operation and can make a variety of intelligent judgments. For example, local hostility, ship blood volume is too low, abnormal teammates already exist. If background mode is used, while automating the game, your computer can do other things, such as watching movies and editing documents.

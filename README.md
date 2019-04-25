@@ -7,7 +7,7 @@
 3. **ratting**
 4. **mining**
 5. **eve online bot**
-6. **save bot**
+6. **security bot**
 7. **simulated human operation**
 
 

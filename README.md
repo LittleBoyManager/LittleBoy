@@ -1,7 +1,7 @@
 
 # LittleBoy
 
-*eveonline*
+* eveonline *
 *bot*
 *ratting*
 *mining*

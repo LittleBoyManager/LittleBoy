@@ -8,7 +8,7 @@
    3. **security bot**
    4. **simulated human operation**
 
-
+****
 
 The LittleBoy is a product of artificial intelligence used in game automation. It completely simulates human operation and can make a variety of intelligent judgments. For example, local hostility, ship blood volume is too low, abnormal teammates already exist. If background mode is used, while automating the game, your computer can do other things, such as watching movies and editing documents.
 
@@ -16,7 +16,7 @@ The LittleBoy is a product of artificial intelligence used in game automation. I
 
 
 ### [Latest Released Download]: 
-    http://littleboy.kl-games.com:7080/downloads
+    Url: http://littleboy.kl-games.com:7080/downloads
 
 
 ### [Home]: 

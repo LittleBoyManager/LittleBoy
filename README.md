@@ -29,7 +29,7 @@ The LittleBoy is a product of artificial intelligence used in game automation. I
 ### 最新的中文版本在当前项目路径：
       Little/中文/v.1.0.5.6/LittleBoy.v1.0.5.6.zh.zip
 
-### 请加QQ群：1020170928
+### QQ群：1020170928
 <img src="QQ群联系我们.png">
 
  
@@ -40,7 +40,7 @@ The LittleBoy is a product of artificial intelligence used in game automation. I
     Url: https://littleboy.kl-games.com
 
 
-### [Tutorial]:(YouTube Videos) 
+### [Tutorial]: (YouTube Videos) 
     Url: https://littleboy.kl-games.com/tutorial
 
 

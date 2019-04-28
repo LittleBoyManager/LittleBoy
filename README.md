@@ -1,5 +1,6 @@
 
 # LittleBoy is a EVE Online Bot
+### LittleBoy 是一款安全、高效、多功能的模拟人工操作的 EVE Online 脚本
 
 
 ### Features

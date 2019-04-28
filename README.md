@@ -20,7 +20,7 @@ The LittleBoy is a product of artificial intelligence used in game automation. I
       LittleBoy/English/v1.0.5.6/LittleBoy.v1.0.5.6.en.zip
       
 ### Contact US via Discord:
-      https://discord.gg/vwnj3DX
+      [https://discord.gg/vwnj3DX]
       
 
 
@@ -55,6 +55,6 @@ The LittleBoy is a product of artificial intelligence used in game automation. I
 [Home]: https://littleboy.kl-games.com
 [Tutorial]: https://littleboy.kl-games.com/tutorial
 [Q&A]: https://littleboy.kl-games.com/qa
-
+[https://discord.gg/vwnj3DX]: https://discord.gg/vwnj3DX
 
 

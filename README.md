@@ -2,6 +2,9 @@
 # LittleBoy is a [EVE Online] Bot
 ### LittleBoy 是一款安全、高效、多功能的模拟人工操作的 [EVE Online] 脚本
  
+  
+   
+    
  
 ### Features
    1. **Ratting for Dominix, Vexor Navy Issue, Rattlesnake, Carrier, Super Carrier**
@@ -19,10 +22,13 @@
    5. **模拟人工操作**
  
  
+  
+   
  
 ### [Download Lastest Released From Our Web Site]
+### [从官网下载最新版本]
  
- 
+  
  
 ### Lastest English Version At Current Project: 
       LittleBoy/English/v1.0.5.6/LittleBoy.v1.0.5.6.en.zip
@@ -58,6 +64,7 @@
 
 [EVE Online]: https://www.eveonline.com/
 [Download Lastest Released From Our Web Site]: http://littleboy.kl-games.com:7080/downloads
+[从官网下载最新版本]: http://littleboy.kl-games.com:7080/downloads
 [Home]: https://littleboy.kl-games.com
 [Tutorial]: https://littleboy.kl-games.com/tutorial
 [Q&A]: https://littleboy.kl-games.com/qa

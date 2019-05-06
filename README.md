@@ -32,16 +32,11 @@
  
   
  
-### Lastest English Version At Current Project: 
-      LittleBoy/English/v1.0.5.6/LittleBoy.v1.0.5.6.en.zip
+
       
 ### [Contact US via Discord]:
       Url: https://discord.gg/vwnj3DX
       
-
-
-### 最新的中文版本在当前项目路径：
-      Little/中文/v.1.0.5.6/LittleBoy.v1.0.5.6.zh.zip
 
 ### QQ群：1020170928
 <img src="QQ群联系我们.png">

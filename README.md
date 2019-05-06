@@ -10,8 +10,9 @@
    1. **Ratting for Dominix, Vexor Navy Issue, Rattlesnake, Carrier, Super Carrier**
    2. **Also provides early warning, mining escort, automatic transportation and other functions**
    3. **Rorqual Mining**
-   4. **security bot**
-   5. **simulated human operation**
+   4. **Security bot**
+   5. **Simulated human operation**
+   6. **Detail video [Tutorial]**
  
  
 ### 功能
@@ -20,6 +21,7 @@
    3. **大鲸鱼采矿**
    4. **安全，放心长期使用**
    5. **模拟人工操作**
+   6. **详细的视频 [教程]**
  
  
   
@@ -69,5 +71,6 @@
 [Tutorial]: https://littleboy.kl-games.com/tutorial
 [Q&A]: https://littleboy.kl-games.com/qa
 [Contact US via Discord]: https://discord.gg/vwnj3DX
+[教程]: https://littleboy.kl-games.com/tutorial
 
 

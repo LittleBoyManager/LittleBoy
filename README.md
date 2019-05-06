@@ -1,17 +1,23 @@
 
 # LittleBoy is a [EVE Online] Bot
 ### LittleBoy 是一款安全、高效、多功能的模拟人工操作的 [EVE Online] 脚本
-
-
-### Features
-   1. **ratting**
-   2. **mining**
-   3. **security bot**
-   4. **simulated human operation**
-
  
-
-The LittleBoy is a product of artificial intelligence used in game automation. It completely simulates human operation and can make a variety of intelligent judgments. For example, local hostility, ship blood volume is too low, abnormal teammates already exist. If background mode is used, while automating the game, your computer can do other things, such as watching movies and editing documents.
+ 
+### Features
+   1. **Ratting for Dominix, Vexor Navy Issue, Rattlesnake, Carrier, Super Carrier**
+   2. **Also provides early warning, mining escort, automatic transportation and other functions**
+   3. **Rorqual Mining**
+   4. **security bot**
+   5. **simulated human operation**
+ 
+ 
+### 功能
+   1. **刷怪：多米，海狂怒（VNI），Rattlesnake，航母，超级航母**
+   2. **还提供预警，采矿护航，自动运输等功能**
+   3. **大鲸鱼采矿**
+   4. **安全，放心长期使用**
+   5. **模拟人工操作**
+ 
  
  
 ### [Download Lastest Released From Our Web Site]
